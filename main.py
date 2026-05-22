@@ -3,6 +3,6 @@ app = FastAPI()
 
 @app.get("/")
 def root():
-    return {"status": "ok good"}
+    return {"status": "ok good job"}
 
 print("Hello World")
