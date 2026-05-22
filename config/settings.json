@@ -1,0 +1,6 @@
+{
+  "app_name": "GitMindTestApp",
+  "debug": true,
+  "port": 8080,
+  "database": "sqlite:///test.db"
+}
